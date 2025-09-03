@@ -2,7 +2,7 @@
 
 ## Read Before You Start
 
-1. This assignment is due on **Friday, September 6th at 10pm**.
+1. This assignment is due on **Friday, September 5th at 10pm**.
 
 2. When you are finished, submit this repository on Gradescope. You can
    resubmit as many times as you like until the deadline.
